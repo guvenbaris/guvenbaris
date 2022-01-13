@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Güven Barış ÇAKAN</h1>
 <h3 align="center">I like computer science with all fields.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guvenbaris" alt="guvenbaris" /></a> </p>
-
 - 🔭 I’m currently working on [ECommerce](https://github.com/NA203-Project-Group/ECommerce)
 
 - 🌱 I’m currently learning **.Net 5**

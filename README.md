@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ECommerce](https://github.com/NA203-Project-Group/ECommerce)
 
-- 🌱 I’m currently learning **.Net 5**
+- 🌱 I’m currently learning **.Net 8**
 
 - 💬 Ask me about **C#,Html,Css,Python,JavaScript,React**
 
